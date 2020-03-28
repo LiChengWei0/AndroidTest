@@ -1,15 +1,14 @@
 package com.example.androidtest;
 
-import com.example.androidtest.util.MeasureUtil;
-
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
-import androidx.appcompat.app.AppCompatActivity;
+import com.example.custom.util.MeasureUtil;
 
 /**
  * Created by ouyangshen on 2016/10/14.
